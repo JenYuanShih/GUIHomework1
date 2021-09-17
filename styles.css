@@ -91,3 +91,8 @@ table {
 td {
     width: 25% ;
 } 
+
+/* CSS validation icon formatter*/
+.validation-icon{
+    float: right
+}
